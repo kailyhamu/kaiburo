@@ -17,7 +17,6 @@ const ContactPage = ({
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
           <h1 className="post-title">お問い合わせ</h1>
-          <p>感想や質問でも引用についてもお願いします。 &rarr;</p>
         </div>
         <div>
           <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
